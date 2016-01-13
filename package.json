@@ -1,0 +1,23 @@
+{
+  "name": "testSetup",
+  "version": "0.0.1",
+  "description": "super quick example of how to set up a test suite using mocha and chai",
+  "main": "testFile.js",
+  "scripts": {
+    "test": "mocha testFile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClimbsRocks/testSetup.git"
+  },
+  "author": "Preston Parry <climbsbytes@gmail.com> (prestonparry.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClimbsRocks/testSetup/issues"
+  },
+  "homepage": "https://github.com/ClimbsRocks/testSetup",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
